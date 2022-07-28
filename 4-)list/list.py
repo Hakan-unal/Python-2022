@@ -51,7 +51,6 @@
 
 
 
-from operator import index
 
 
 list=["Samsung S5","Samsung S6","Samsung S7","Samsung S8"]

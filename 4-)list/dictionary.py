@@ -66,6 +66,30 @@ queryID=int(input(f"Sorgulamak istediğiniz ürün id: "))
 print(tempObj[queryID])
 
 
+tempObj
+
+print(tempObj)
 
 
 
+
+
+
+obj1={
+    "name":"name1"
+}
+
+obj2={
+    "surname":"surname"
+}
+
+merged={}
+
+obj1.update(obj2)
+merged.update(obj1)
+merged.update(obj2)
+
+
+print(obj1)
+print(obj2)
+print(merged)

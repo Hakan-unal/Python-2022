@@ -86,3 +86,20 @@ elif(ındex2):print(f"Normal {userIndex}")
 elif(ındex3):print(f"Fazla Kilolu {userIndex}")
 elif(ındex4):print(f"Şişman {userIndex}")
 else:print("Invalid")
+
+
+
+listA,listB=[1,2,3],[1,2,3]
+listC=[1,2,3]
+
+
+print(listA is listC)
+print(listA is listB)
+print(listA == listC)
+print(listA == listB)
+
+print(1 in listB)
+print(5 is listB)
+
+
+

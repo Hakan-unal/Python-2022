@@ -1,0 +1,1 @@
+# lazım olursa burdan bak jsde kullanmadın

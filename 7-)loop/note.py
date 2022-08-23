@@ -1,0 +1,1 @@
+#whiledan uzak dur fordan devam jsdeki gibi methodlar aynı

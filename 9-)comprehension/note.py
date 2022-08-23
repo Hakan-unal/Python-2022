@@ -1,0 +1,1 @@
+# kullanım  farklı tekrarla aynı işlem tek satırda değişik birşey yok
